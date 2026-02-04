@@ -1,4 +1,4 @@
-##IRM 💌
+## IRM 💌
 
 Este proyecto es un pequeño detalle chistoso hecho con cariño con algo que me gusta hacer :)
 
